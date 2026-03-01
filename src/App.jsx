@@ -187,25 +187,14 @@ function App() {
               <div className="rg w-[30%] py-30">
                 <h1 className="text-8xl">Still Running,</h1>
                 <h1 className="text-8xl">Not Hunting</h1>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Distinctio possimus, asperiores nam, omnis inventore nesciunt
-                  a architecto eveniet saepe, ducimus necessitatibus at
-                  voluptate.
+                <p className="mt-6 md:mt-10 text-base md:text-lg lg:text-xl font-[Helvetica_Now_Display]">
+                  I'm Krishna Gaur, an ambitious Computer Science student at ABES Engineering College (Class of 2027) based in Ghaziabad, India. With a strong foundation in Data Structures and Algorithms, I thrive on tackling complex algorithmic problems and optimizing systems.
                 </p>
-                <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+                <p className="mt-3 text-base md:text-lg lg:text-xl font-[Helvetica_Now_Display] hidden md:block">
+                  As the Core Member of the Enigma Programming Club, I routinely organize workshops and mentor peers in competitive programming. My technical arsenal ranges from C++ and Python to full-stack tools like React, Spring Boot, and MongoDB.
                 </p>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+                <p className="mt-3 text-base md:text-lg lg:text-xl font-[Helvetica_Now_Display] hidden md:block">
+                  Whether I'm engineering a multi-threaded C++ file compressor (ByteCrush) with Huffman coding, or building a P2P EV charging platform mapping backend with optimized geospatial queries (ChargeShare), I aim for high performance and clean architecture.
                 </p>
                 <button className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl cursor-pointer hover:bg-yellow-400">
                   Download Now
